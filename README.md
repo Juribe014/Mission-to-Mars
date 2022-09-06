@@ -15,6 +15,6 @@ Used BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hem
   'title': 'Valles Marineris Hemisphere Enhanced'}]
 ```
 
-Stored the scraped data on a Mongo database, use a web application to display the data.
+Stored the scraped data on a Mongo database, use a web application to display the data. THe image below shows the initial output off the app being initiated. To obtain the data, one must press the "Scrape New Data" button to begin scraping the appropiate images. 
 
 ![Scrape_image](https://user-images.githubusercontent.com/104809098/188524036-a51d3f38-cf65-4e91-a097-50679ac2801b.png)
